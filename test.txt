@@ -1,2 +1,6 @@
 Lab number 1 is ready!
 New change.
+
+New feature code:
+
+1, 2, 3, 4, 5
