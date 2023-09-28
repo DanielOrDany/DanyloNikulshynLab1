@@ -1,4 +1,4 @@
-Lab number 1 is ready!
+We are ready with lab 2!
 New change.
 
 New feature code:
